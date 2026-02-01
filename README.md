@@ -164,6 +164,23 @@ Our growing collection of tools is organized into the following categories. Clic
 - [World Clock and Timezone Complete Guide: Timezone Principles, DST, and Programming Implementation](https://qubittool.com/en/blog/world-clock-timezone-guide)
 - [YAML and JSON Conversion Complete Guide](https://qubittool.com/en/blog/yaml-json-conversion-guide)
 
+### 📚 Developer Glossary
+
+Technical terms and concepts explained for developers.
+
+- [Base64 (Base64 Encoding)](https://qubittool.com/en/glossary/base64)
+- [Glob (Glob Pattern / Globbing)](https://qubittool.com/en/glossary/glob)
+- [GUID (Globally Unique Identifier)](https://qubittool.com/en/glossary/guid)
+- [JSON (JavaScript Object Notation)](https://qubittool.com/en/glossary/json)
+- [JWT (JSON Web Token)](https://qubittool.com/en/glossary/jwt)
+- [NanoID (Nano ID)](https://qubittool.com/en/glossary/nanoid)
+- [OAuth (Open Authorization)](https://qubittool.com/en/glossary/oauth)
+- [Regex (Regular Expression)](https://qubittool.com/en/glossary/regex)
+- [URL Encoding (Percent-Encoding / URL Encoding)](https://qubittool.com/en/glossary/url-encoding)
+- [UUID (Universally Unique Identifier)](https://qubittool.com/en/glossary/uuid)
+- [XML (Extensible Markup Language)](https://qubittool.com/en/glossary/xml)
+- [YAML (YAML Ain't Markup Language)](https://qubittool.com/en/glossary/yaml)
+
 ---
 
 Thank you for your support of QubitTool!

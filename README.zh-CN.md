@@ -164,6 +164,23 @@
 - [世界时钟与时区详解：时区原理、夏令时与编程实现](https://qubittool.com/zh/blog/world-clock-timezone-guide)
 - [YAML与JSON互转详解](https://qubittool.com/zh/blog/yaml-json-conversion-guide)
 
+### 📚 开发者术语表
+
+为开发者解释的技术术语和概念。
+
+- [Base64 (Base64 编码)](https://qubittool.com/zh/glossary/base64)
+- [Glob (Glob 模式 / 通配符匹配)](https://qubittool.com/zh/glossary/glob)
+- [GUID (全局唯一标识符)](https://qubittool.com/zh/glossary/guid)
+- [JSON (JavaScript 对象表示法)](https://qubittool.com/zh/glossary/json)
+- [JWT (JSON Web Token（JSON 网络令牌）)](https://qubittool.com/zh/glossary/jwt)
+- [NanoID (Nano ID)](https://qubittool.com/zh/glossary/nanoid)
+- [OAuth (开放授权)](https://qubittool.com/zh/glossary/oauth)
+- [正则表达式 (Regular Expression（正则表达式）)](https://qubittool.com/zh/glossary/regex)
+- [URL 编码 (百分号编码 / URL 编码)](https://qubittool.com/zh/glossary/url-encoding)
+- [UUID (通用唯一标识符)](https://qubittool.com/zh/glossary/uuid)
+- [XML (可扩展标记语言)](https://qubittool.com/zh/glossary/xml)
+- [YAML (YAML Ain't Markup Language)](https://qubittool.com/zh/glossary/yaml)
+
 ---
 
 感谢您对 QubitTool 的支持！
