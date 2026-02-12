@@ -1,3 +1,9 @@
+---
+title: QubitTool - 免费在线开发者工具集
+description: QubitTool 是一款为开发者设计的免费在线工具集。提供 JSON 工具、图片工具、PDF 工具、计算器等 90+ 实用工具，提高您的工作效率。
+lang: zh-CN
+---
+
 [English](./README.md)
 
 # QubitTool 社区
