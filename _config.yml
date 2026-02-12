@@ -1,0 +1,9 @@
+title: QubitTool - Free Online Developer Tools
+description: QubitTool is a free online toolkit for developers, designed to boost your productivity. JSON tools, image tools, PDF tools, calculators, and more.
+url: https://qubittool.github.io
+baseurl: /qubittool
+
+theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-seo-tag
