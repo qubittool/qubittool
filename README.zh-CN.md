@@ -1,16 +1,12 @@
 [English](./README.md)
 
-# QubitTool - 免费在线开发者工具
-
-> **🚀 [访问 qubittool.com](https://qubittool.com/zh) - 100+ 免费在线开发工具！**
->
-> JSON格式化、图片压缩、PDF工具、时间戳转换等 - 全部免费，无需登录！
+# QubitTool 社区
 
 [![Website](https://img.shields.io/badge/Website-qubittool.com-blue)](https://qubittool.com)
 [![GitHub issues](https://img.shields.io/github/issues/qubittool/qubittool)](https://github.com/qubittool/qubittool/issues)
 [![License](https://img.shields.io/github/license/qubittool/qubittool)](./LICENSE)
 
-**QubitTool** 是一款为开发者设计的免费在线工具集，包含 JSON 工具、图片转换、PDF 处理、计算器等。所有处理均在浏览器中完成，您的数据绝不会上传到服务器。
+**QubitTool** 是一款为开发者设计的免费在线工具集，旨在提高您的工作效率。
 
 ---
 
@@ -303,24 +299,6 @@
 - [XML (可扩展标记语言)](https://qubittool.com/zh/glossary/xml)
 - [XPath (XML 路径语言)](https://qubittool.com/zh/glossary/xpath)
 - [YAML (YAML Ain't Markup Language)](https://qubittool.com/zh/glossary/yaml)
-
----
-
-### 🔗 快速链接
-
-| 资源 | 链接 |
-|------|------|
-| 🌐 **主站** | [qubittool.com](https://qubittool.com/zh) |
-| 📖 **博客** | [qubittool.com/blog](https://qubittool.com/zh/blog) |
-| 📚 **开发者术语表** | [qubittool.com/glossary](https://qubittool.com/zh/glossary) |
-| 🐛 **报告 Bug** | [GitHub Issues](https://github.com/qubittool/qubittool/issues) |
-| 💡 **功能建议** | [GitHub Issues](https://github.com/qubittool/qubittool/issues/new?template=feature_request.md) |
-
----
-
-### 🏷️ 关键词
-
-`在线开发工具` `免费工具` `json格式化` `json对比` `图片压缩` `pdf合并` `pdf分割` `时间戳转换` `base64编码` `url编码` `jwt生成` `二维码生成` `正则测试` `md5生成` `uuid生成` `开源工具`
 
 ---
 
