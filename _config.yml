@@ -1,9 +1,19 @@
-title: QubitTool - Free Online Developer Tools
-description: QubitTool is a free online toolkit for developers, designed to boost your productivity. JSON tools, image tools, PDF tools, calculators, and more.
+title: QubitTool - Free Online Developer Tools | JSON, Image, PDF & More
+description: QubitTool is a free online toolkit for developers. 100+ tools including JSON formatter, image compressor, PDF merger, timestamp converter - all free, no login required.
 url: https://qubittool.github.io
 baseurl: /QubitTool
+
+lang: en
+author: QubitTool Team
+
+social:
+  name: QubitTool
+  links:
+    - https://github.com/qubittool
+    - https://qubittool.com
 
 theme: jekyll-theme-cayman
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap

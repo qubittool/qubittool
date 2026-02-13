@@ -1,12 +1,16 @@
 [简体中文](./README.zh-CN.md)
 
-# QubitTool Community
+# QubitTool - Free Online Developer Tools
+
+> **🚀 [Visit qubittool.com](https://qubittool.com) - 100+ Free Online Tools for Developers!**
+>
+> JSON Formatter, Image Compressor, PDF Tools, Timestamp Converter, and more - All free, no login required!
 
 [![Website](https://img.shields.io/badge/Website-qubittool.com-blue)](https://qubittool.com)
 [![GitHub issues](https://img.shields.io/github/issues/qubittool/qubittool)](https://github.com/qubittool/qubittool/issues)
 [![License](https://img.shields.io/github/license/qubittool/qubittool)](./LICENSE)
 
-**QubitTool** is a free online toolkit for developers, designed to boost your productivity.
+**QubitTool** is a free online toolkit for developers, offering JSON tools, image converters, PDF utilities, calculators, and more. All processing happens in your browser - your data never touches our servers.
 
 ---
 
@@ -299,6 +303,24 @@ Technical terms and concepts explained for developers.
 - [XML (Extensible Markup Language)](https://qubittool.com/en/glossary/xml)
 - [XPath (XML Path Language)](https://qubittool.com/en/glossary/xpath)
 - [YAML (YAML Ain't Markup Language)](https://qubittool.com/en/glossary/yaml)
+
+---
+
+### 🔗 Quick Links
+
+| Resource | Link |
+|----------|------|
+| 🌐 **Main Website** | [qubittool.com](https://qubittool.com) |
+| 📖 **Blog** | [qubittool.com/blog](https://qubittool.com/en/blog) |
+| 📚 **Developer Glossary** | [qubittool.com/glossary](https://qubittool.com/en/glossary) |
+| 🐛 **Report a Bug** | [GitHub Issues](https://github.com/qubittool/qubittool/issues) |
+| 💡 **Feature Request** | [GitHub Issues](https://github.com/qubittool/qubittool/issues/new?template=feature_request.md) |
+
+---
+
+### 🏷️ Keywords
+
+`online developer tools` `free tools` `json formatter` `json diff` `image compressor` `pdf merger` `pdf splitter` `timestamp converter` `base64 encoder` `url encoder` `jwt generator` `qr code generator` `regex tester` `md5 generator` `uuid generator` `open source tools`
 
 ---
 
