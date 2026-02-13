@@ -17,3 +17,12 @@ theme: jekyll-theme-cayman
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+
+exclude:
+  - googled585b160e0043117.html
+  - CODE_OF_CONDUCT.md
+  - CODE_OF_CONDUCT.zh-CN.md
+  - CONTRIBUTING.md
+  - CONTRIBUTING.zh-CN.md
+  - LICENSE
+  - .gitignore
