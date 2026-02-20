@@ -308,7 +308,6 @@ Technical terms and concepts explained for developers.
 - [SHA-256 (Secure Hash Algorithm 256-bit)](https://qubittool.com/en/glossary/sha256)
 - [Skill (AI Agent Skill)](https://qubittool.com/en/glossary/skill)
 - [Slug (URL Slug)](https://qubittool.com/en/glossary/slug)
-- [Speech Recognition (Automatic Speech Recognition)](https://qubittool.com/en/glossary/speech-recognition)
 - [SQL (Structured Query Language)](https://qubittool.com/en/glossary/sql)
 - [SSL/TLS (Secure Sockets Layer / Transport Layer Security)](https://qubittool.com/en/glossary/ssl-tls)
 - [Supervised Learning](https://qubittool.com/en/glossary/supervised-learning)
