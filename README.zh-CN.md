@@ -64,7 +64,7 @@
   - [Slug生成器](https://qubittool.com/zh/tools/slug-generator)
   - [重复行删除器](https://qubittool.com/zh/tools/duplicate-line-remover)
   - [正则表达式测试](https://qubittool.com/zh/tools/regex-tester)
-  - [SQL 格式化工具](https://qubittool.com/zh/tools/sql-formatter)
+  - [SQL 格式化](https://qubittool.com/zh/tools/sql-formatter)
   - [颜色选择器](https://qubittool.com/zh/tools/color-picker)
   - [文本对比](https://qubittool.com/zh/tools/text-diff)
   - [Markdown 编辑器](https://qubittool.com/zh/tools/markdown-editor)

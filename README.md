@@ -221,7 +221,7 @@ Technical terms and concepts explained for developers.
 - [Distillation (Knowledge Distillation)](https://qubittool.com/en/glossary/distillation)
 - [DNS (Domain Name System)](https://qubittool.com/en/glossary/dns)
 - [DPO (Direct Preference Optimization)](https://qubittool.com/en/glossary/dpo)
-- [Embedding (Vector Embedding)](https://qubittool.com/en/glossary/embedding)
+- [Embedding](https://qubittool.com/en/glossary/embedding)
 - [Emoji (Emoji (絵文字))](https://qubittool.com/en/glossary/emoji)
 - [Encryption (Data Encryption)](https://qubittool.com/en/glossary/encryption)
 - [Epoch Time (Unix Epoch Time)](https://qubittool.com/en/glossary/epoch-time)
