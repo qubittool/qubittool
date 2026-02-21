@@ -308,6 +308,7 @@
 - [SHA-256 (安全哈希算法256位)](https://qubittool.com/zh/glossary/sha256)
 - [Skill (AI 智能体技能)](https://qubittool.com/zh/glossary/skill)
 - [Slug (URL Slug)](https://qubittool.com/zh/glossary/slug)
+- [语音识别 (自动语音识别)](https://qubittool.com/zh/glossary/speech-recognition)
 - [结构化查询语言](https://qubittool.com/zh/glossary/sql)
 - [SSL/TLS安全协议 (安全套接字层 / 传输层安全)](https://qubittool.com/zh/glossary/ssl-tls)
 - [监督学习](https://qubittool.com/zh/glossary/supervised-learning)
