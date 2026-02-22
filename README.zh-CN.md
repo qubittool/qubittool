@@ -123,6 +123,7 @@
 - [注意力机制完全指南：从直觉理解到Transformer核心原理与代码实现](https://qubittool.com/zh/blog/attention-mechanism-complete-guide)
 - [进制转换详解](https://qubittool.com/zh/blog/base-converter-complete-guide)
 - [Base64编码解码详解](https://qubittool.com/zh/blog/base64-encoding-principles)
+- [Bcrypt密码哈希算法详解](https://qubittool.com/zh/blog/bcrypt-password-hashing-complete-guide)
 - [Bearer Token认证详解](https://qubittool.com/zh/blog/bearer-token-authentication-explained)
 - [在线计算器工具大全](https://qubittool.com/zh/blog/calculators-complete-guide)
 - [字符编码深度解析- ASCII、Unicode与UTF](https://qubittool.com/zh/blog/character-encoding-deep-dive)

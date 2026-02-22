@@ -123,6 +123,7 @@ Our growing collection of tools is organized into the following categories. Clic
 - [Attention Mechanism Complete Guide: From Intuition to Transformer Core Principles with Code Implementation](https://qubittool.com/en/blog/attention-mechanism-complete-guide)
 - [Number Base Conversion: Complete Guide to Binary, Octal, Decimal, and Hexadecimal](https://qubittool.com/en/blog/base-converter-complete-guide)
 - [Base64 Encoding & Decoding Guide](https://qubittool.com/en/blog/base64-encoding-principles)
+- [Bcrypt Password Hashing Complete Guide](https://qubittool.com/en/blog/bcrypt-password-hashing-complete-guide)
 - [Bearer Token Authentication Explained](https://qubittool.com/en/blog/bearer-token-authentication-explained)
 - [Calculator Tools Complete Guide](https://qubittool.com/en/blog/calculators-complete-guide)
 - [Character Encoding Deep Dive [2026] - ASCII, Unicode & UTF](https://qubittool.com/en/blog/character-encoding-deep-dive)
