@@ -287,6 +287,7 @@
 - [JSONPath (JSONPath 查询语言)](https://qubittool.com/zh/glossary/jsonpath)
 - [JSON Web令牌 (JSON Web Token（JSON 网络令牌）)](https://qubittool.com/zh/glossary/jwt)
 - [知识图谱](https://qubittool.com/zh/glossary/knowledge-graph)
+- [Lint (Lint / 代码规范检查)](https://qubittool.com/zh/glossary/lint)
 - [代码检查 (代码检查/静态分析)](https://qubittool.com/zh/glossary/linting)
 - [大语言模型](https://qubittool.com/zh/glossary/llm)
 - [LoRA](https://qubittool.com/zh/glossary/lora)
