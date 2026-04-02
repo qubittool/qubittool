@@ -195,7 +195,7 @@
 - [什么是RLHF？ChatGPT如何从人类反馈中学习](https://qubittool.com/zh/blog/rlhf-reinforcement-learning-human-feedback-guide)
 - [语义搜索完全指南](https://qubittool.com/zh/blog/semantic-search-complete-guide)
 - [Spec Coding (SDD) 完全指南：AI 编程的大规模工程化之路](https://qubittool.com/zh/blog/spec-coding-complete-guide)
-- [Spec Coding 实战指南：利用 openSpec 和 CLAUDE.md 构建生产级项目](https://qubittool.com/zh/blog/spec-coding-practical-guide)
+- [Spec Coding 实战指南：用 OpenSpec 框架构建生产级 AI 开发流](https://qubittool.com/zh/blog/spec-coding-practical-guide)
 - [SQL格式化详解](https://qubittool.com/zh/blog/sql-formatter-complete-guide)
 - [SVG优化技巧：减小文件体积、提升网页加载速度](https://qubittool.com/zh/blog/svg-optimization-complete-guide)
 - [文本对比算法详解：Diff原理、LCS算法与实现](https://qubittool.com/zh/blog/text-diff-complete-guide)
