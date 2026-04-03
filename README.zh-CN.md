@@ -318,7 +318,7 @@
 - [JSONPath (JSONPath 查询语言)](https://qubittool.com/zh/glossary/jsonpath)
 - [JSON Web令牌 (JSON Web Token（JSON 网络令牌）)](https://qubittool.com/zh/glossary/jwt)
 - [知识图谱](https://qubittool.com/zh/glossary/knowledge-graph)
-- [KV Cache (键值缓存)](https://qubittool.com/zh/glossary/kv-cache)
+- [KV Cache (Key-Value Cache（键值缓存）)](https://qubittool.com/zh/glossary/kv-cache)
 - [LangGraph (LangGraph Multi-Agent Framework)](https://qubittool.com/zh/glossary/langgraph)
 - [Lint (Lint / 代码规范检查)](https://qubittool.com/zh/glossary/lint)
 - [代码检查 (代码检查/静态分析)](https://qubittool.com/zh/glossary/linting)
