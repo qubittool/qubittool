@@ -130,7 +130,7 @@
 - [代码格式化工具大全](https://qubittool.com/zh/blog/code-formatters-complete-guide)
 - [颜色空间转换详解](https://qubittool.com/zh/blog/color-conversion-complete-guide)
 - [颜色选择器详解](https://qubittool.com/zh/blog/color-picker-complete-guide)
-- [Context Engineering 完全指南：从 Prompt Engineering 到上下文工程的进化](https://qubittool.com/zh/blog/context-engineering-complete-guide)
+- [上下文工程完全指南：提示词工程的演进之路 [2026]](https://qubittool.com/zh/blog/context-engineering-complete-guide)
 - [Context Engineering 实战：如何为 AI 提供最完美的上下文](https://qubittool.com/zh/blog/context-engineering-practical-guide)
 - [上下文窗口与Token完全指南：LLM分词原理、计数方法与成本优化策略](https://qubittool.com/zh/blog/context-window-token-complete-guide)
 - [CrewAI深度解析：多Agent协作工作流构建指南](https://qubittool.com/zh/blog/crewai-multi-agent-workflow-guide)
