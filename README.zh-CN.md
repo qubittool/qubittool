@@ -117,8 +117,10 @@
 
 ### 📝 精选博文
 
+- [高级 RAG 技巧：文档分块 (Chunking) 策略与最佳实践](https://qubittool.com/zh/blog/advanced-rag-chunking-strategies)
 - [AI Agent 评估与 Harness Engineering 实战指南](https://qubittool.com/zh/blog/agent-harness-evaluation-guide)
 - [如何构建AI Agent？架构设计与代码实战指南](https://qubittool.com/zh/blog/ai-agent-development-complete-guide)
+- [Agent 内存管理进阶：如何实现长期记忆 (Long](https://qubittool.com/zh/blog/ai-agent-memory-management)
 - [Cursor Rules与Windsurf配置：自定义你的AI编程助手](https://qubittool.com/zh/blog/ai-coding-assistant-customization-guide)
 - [2025年AI工具导航详解：从模型选择到实战应用](https://qubittool.com/zh/blog/ai-tools-navigation-complete-guide)
 - [AI Agent Harness 架构详解：构建可靠的智能体执行环境](https://qubittool.com/zh/blog/anatomy-of-agent-harness)
@@ -195,6 +197,7 @@
 - [什么是模型量化？INT8、GPTQ与AWQ方法详解](https://qubittool.com/zh/blog/model-quantization-complete-guide)
 - [混合专家模型 (MoE) 架构详解：GPT](https://qubittool.com/zh/blog/moe-architecture-explained)
 - [多智能体系统：如何用CrewAI和LangGraph构建多Agent应用](https://qubittool.com/zh/blog/multi-agent-system-complete-guide)
+- [多模态 RAG 实战：如何对图片、PDF 和文本进行统一检索](https://qubittool.com/zh/blog/multimodal-rag-guide)
 - [纳秒时间戳转换指南](https://qubittool.com/zh/blog/nanosecond-timestamp-conversion-guide)
 - [网络工具大全](https://qubittool.com/zh/blog/network-tools-complete-guide)
 - [神经网络完全指南：从生物神经元到深度学习架构详解](https://qubittool.com/zh/blog/neural-network-fundamentals-guide)
@@ -218,6 +221,8 @@
 - [解决 RAG 幻觉的 5 种工程化策略](https://qubittool.com/zh/blog/rag-hallucination-mitigation-strategies)
 - [RAG检索质量优化方案：从Rerank到Hybrid Search](https://qubittool.com/zh/blog/rag-hybrid-search-rerank-optimization)
 - [RAG检索增强生成完全指南](https://qubittool.com/zh/blog/rag-retrieval-augmented-generation-guide)
+- [RAG vs 微调 (Fine](https://qubittool.com/zh/blog/rag-vs-fine-tuning)
+- [ReAct 框架详解：让大模型学会思考与行动](https://qubittool.com/zh/blog/react-framework-explained)
 - [OpenAI o1 与 DeepSeek R1 架构解析：推理模型 (Reasoning Model) 的崛起](https://qubittool.com/zh/blog/reasoning-models-o1-deepseek-r1)
 - [正则表达式全攻略](https://qubittool.com/zh/blog/regex-complete-guide)
 - [什么是RLHF？ChatGPT如何从人类反馈中学习](https://qubittool.com/zh/blog/rlhf-reinforcement-learning-human-feedback-guide)

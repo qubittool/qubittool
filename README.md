@@ -117,8 +117,10 @@ Our growing collection of tools is organized into the following categories. Clic
 
 ### 📝 Featured Blog Posts
 
+- [Advanced RAG Techniques: Document Chunking Strategies and Best Practices [2026]](https://qubittool.com/en/blog/advanced-rag-chunking-strategies)
 - [Agent Harness Engineering Guide [2026]: Evaluating AI Agents in Production](https://qubittool.com/en/blog/agent-harness-evaluation-guide)
 - [How to Build an AI Agent: Architecture & Code Guide](https://qubittool.com/en/blog/ai-agent-development-complete-guide)
+- [AI Agent Memory Management [2026]: How to Implement Long](https://qubittool.com/en/blog/ai-agent-memory-management)
 - [Cursor Rules & Windsurf Skills: Customize Your AI IDE](https://qubittool.com/en/blog/ai-coding-assistant-customization-guide)
 - [2025 AI Tools Navigation Complete Guide: From Model Selection to Practical Applications](https://qubittool.com/en/blog/ai-tools-navigation-complete-guide)
 - [The Anatomy of an Agent Harness: A Complete Guide [2026]](https://qubittool.com/en/blog/anatomy-of-agent-harness)
@@ -195,6 +197,7 @@ Our growing collection of tools is organized into the following categories. Clic
 - [What is Model Quantization? INT8, GPTQ & AWQ Explained](https://qubittool.com/en/blog/model-quantization-complete-guide)
 - [Mixture of Experts (MoE) Architecture Explained [2026]: GPT](https://qubittool.com/en/blog/moe-architecture-explained)
 - [Multi](https://qubittool.com/en/blog/multi-agent-system-complete-guide)
+- [Multimodal RAG Complete Guide [2026]: Unifying Images, PDFs, and Text Search](https://qubittool.com/en/blog/multimodal-rag-guide)
 - [Nanosecond Timestamp Conversion Guide](https://qubittool.com/en/blog/nanosecond-timestamp-conversion-guide)
 - [Network Tools Complete Guide](https://qubittool.com/en/blog/network-tools-complete-guide)
 - [Neural Network Complete Guide: From Biological Neurons to Deep Learning Architectures](https://qubittool.com/en/blog/neural-network-fundamentals-guide)
@@ -218,6 +221,8 @@ Our growing collection of tools is organized into the following categories. Clic
 - [5 Engineering Strategies to Mitigate RAG Hallucinations](https://qubittool.com/en/blog/rag-hallucination-mitigation-strategies)
 - [Advanced RAG Optimization: From Rerank to Hybrid Search](https://qubittool.com/en/blog/rag-hybrid-search-rerank-optimization)
 - [RAG Retrieval-Augmented Generation Complete Guide [2026]](https://qubittool.com/en/blog/rag-retrieval-augmented-generation-guide)
+- [RAG vs Fine](https://qubittool.com/en/blog/rag-vs-fine-tuning)
+- [ReAct Framework Explained [2026]: Teaching LLMs to Think and Act](https://qubittool.com/en/blog/react-framework-explained)
 - [OpenAI o1 and DeepSeek R1 Architecture Explained [2026]: The Rise of Reasoning Models](https://qubittool.com/en/blog/reasoning-models-o1-deepseek-r1)
 - [Regular Expressions Complete Guide [2026]](https://qubittool.com/en/blog/regex-complete-guide)
 - [What is RLHF? How ChatGPT Learns from Human Feedback](https://qubittool.com/en/blog/rlhf-reinforcement-learning-human-feedback-guide)
