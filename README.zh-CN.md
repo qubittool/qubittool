@@ -114,7 +114,6 @@
   - [MCP Server 导航](https://qubittool.com/zh/tools/mcp-directory)
   - [AI Agent 导航](https://qubittool.com/zh/tools/agent-directory)
   - [AI Skills 导航](https://qubittool.com/zh/tools/skill-directory)
-  - [SBTI 人格测试](https://qubittool.com/zh/tools/sbti-test)
 
 ### 📝 精选博文
 
