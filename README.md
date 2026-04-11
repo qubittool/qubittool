@@ -130,6 +130,7 @@ Our growing collection of tools is organized into the following categories. Clic
 - [Base64 Encoding & Decoding Guide](https://qubittool.com/en/blog/base64-encoding-principles)
 - [Bcrypt Password Hashing Complete Guide](https://qubittool.com/en/blog/bcrypt-password-hashing-complete-guide)
 - [Bearer Token Authentication Explained](https://qubittool.com/en/blog/bearer-token-authentication-explained)
+- [Build an SBTI Test Site in Half a Day with Vibe/Spec Coding [2026]](https://qubittool.com/en/blog/build-sbti-test-with-spec-coding)
 - [Calculator Tools Complete Guide](https://qubittool.com/en/blog/calculators-complete-guide)
 - [Chain of Thought (CoT) and Advanced Prompting Techniques Guide [2026]](https://qubittool.com/en/blog/chain-of-thought-prompting-guide)
 - [Character Encoding Deep Dive [2026] - ASCII, Unicode & UTF](https://qubittool.com/en/blog/character-encoding-deep-dive)
@@ -248,6 +249,7 @@ Our growing collection of tools is organized into the following categories. Clic
 - [Vibe Coding Practical Guide: Efficient Workflows from Cursor to Claude Code](https://qubittool.com/en/blog/vibe-coding-practical-guide)
 - [Best Vibe Coding Tools Comparison [2026]: Trae AI vs Cursor vs Windsurf](https://qubittool.com/en/blog/vibe-coding-tools-comparison)
 - [WebLLM Practical Guide: Engineering Architecture for Running Large Language Models in the Browser](https://qubittool.com/en/blog/webllm-browser-ai-engineering)
+- [Forget MBTI: What is the SBTI Test Everyone is Taking? [2026]](https://qubittool.com/en/blog/what-is-sbti-test)
 - [World Clock and Timezone Complete Guide: Timezone Principles, DST, and Programming Implementation](https://qubittool.com/en/blog/world-clock-timezone-guide)
 - [YAML and JSON Conversion Complete Guide](https://qubittool.com/en/blog/yaml-json-conversion-guide)
 

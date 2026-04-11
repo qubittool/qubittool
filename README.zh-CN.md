@@ -130,6 +130,7 @@
 - [Base64编码解码详解](https://qubittool.com/zh/blog/base64-encoding-principles)
 - [Bcrypt密码哈希算法详解](https://qubittool.com/zh/blog/bcrypt-password-hashing-complete-guide)
 - [Bearer Token认证详解](https://qubittool.com/zh/blog/bearer-token-authentication-explained)
+- [半天搞定！如何用 Vibe / Spec Coding 快速复刻 SBTI 测试网站](https://qubittool.com/zh/blog/build-sbti-test-with-spec-coding)
 - [在线计算器工具大全](https://qubittool.com/zh/blog/calculators-complete-guide)
 - [思维链 (CoT) 与提示词高级技巧实战指南](https://qubittool.com/zh/blog/chain-of-thought-prompting-guide)
 - [字符编码深度解析- ASCII、Unicode与UTF](https://qubittool.com/zh/blog/character-encoding-deep-dive)
@@ -248,6 +249,7 @@
 - [Vibe Coding 实战指南：从 Cursor 到 Claude Code 的高效工作流](https://qubittool.com/zh/blog/vibe-coding-practical-guide)
 - [Vibe Coding 软件排行：Trae AI、Cursor 与 Windsurf 终极对比](https://qubittool.com/zh/blog/vibe-coding-tools-comparison)
 - [WebLLM实战：在浏览器中运行大语言模型的工程架构](https://qubittool.com/zh/blog/webllm-browser-ai-engineering)
+- [别发 MBTI 了，最近全网都在测的 SBTI 到底是个啥？](https://qubittool.com/zh/blog/what-is-sbti-test)
 - [世界时钟与时区详解：时区原理、夏令时与编程实现](https://qubittool.com/zh/blog/world-clock-timezone-guide)
 - [YAML与JSON互转详解](https://qubittool.com/zh/blog/yaml-json-conversion-guide)
 
