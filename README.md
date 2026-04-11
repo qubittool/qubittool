@@ -114,6 +114,7 @@ Our growing collection of tools is organized into the following categories. Clic
   - [MCP Server Directory](https://qubittool.com/en/tools/mcp-directory)
   - [AI Agent Directory](https://qubittool.com/en/tools/agent-directory)
   - [AI Skills Directory](https://qubittool.com/en/tools/skill-directory)
+  - [SBTI Personality Test](https://qubittool.com/en/tools/sbti-test)
 
 ### 📝 Featured Blog Posts
 
