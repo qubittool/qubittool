@@ -26,3 +26,11 @@ exclude:
   - CONTRIBUTING.zh-CN.md
   - LICENSE
   - .gitignore
+  - README.md
+  - README.zh-CN.md
+
+defaults:
+  - scope:
+      path: "index.html"
+    values:
+      layout: default
