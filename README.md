@@ -211,6 +211,7 @@ Our growing collection of tools is organized into the following categories. Clic
 - [LLM CI/CD Automated Code Review Guide [2026]](https://qubittool.com/en/blog/llm-ci-cd-automated-code-review)
 - [LLM Fine](https://qubittool.com/en/blog/llm-fine-tuning-complete-guide)
 - [LLM Function Calling: Connect AI to Real](https://qubittool.com/en/blog/llm-function-calling-complete-guide)
+- [LLM Guardrails Engineering in Practice: How to Safely Deploy Large Models to Production [2026]](https://qubittool.com/en/blog/llm-guardrails-engineering-guide)
 - [What is LLM Hallucination? How to Detect & Prevent It](https://qubittool.com/en/blog/llm-hallucination-complete-guide)
 - [LLM Inference Complete Guide [2026]: From Tokenization and KV Cache to Text Generation](https://qubittool.com/en/blog/llm-inference-guide)
 - [LLM Inference and KV Cache Complete Guide [2026]: How Token Generation Works](https://qubittool.com/en/blog/llm-inference-kv-cache-guide)

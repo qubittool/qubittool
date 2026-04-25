@@ -211,6 +211,7 @@
 - [将LLM深度集成到CI/CD：自动化代码审查与测试生成](https://qubittool.com/zh/blog/llm-ci-cd-automated-code-review)
 - [LLM微调方法对比：全量微调、LoRA与QLoRA怎么选](https://qubittool.com/zh/blog/llm-fine-tuning-complete-guide)
 - [LLM Function Calling：如何让AI连接真实世界工具](https://qubittool.com/zh/blog/llm-function-calling-complete-guide)
+- [模型护栏 (Guardrails) 工程实战：如何安全地将大模型部署到生产环境](https://qubittool.com/zh/blog/llm-guardrails-engineering-guide)
 - [什么是LLM幻觉？检测与防范AI生成错误的实用方法](https://qubittool.com/zh/blog/llm-hallucination-complete-guide)
 - [大语言模型 (LLM) 推理过程详解：从 Token、KV Cache 到文本生成](https://qubittool.com/zh/blog/llm-inference-guide)
 - [大模型推理与 KV Cache 详解：Token 生成的底层逻辑](https://qubittool.com/zh/blog/llm-inference-kv-cache-guide)
