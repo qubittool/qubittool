@@ -287,7 +287,7 @@ Our growing collection of tools is organized into the following categories. Clic
 - [OpenClaw Core Features & API Guide [2026]: Build Your Multi](https://qubittool.com/en/blog/openclaw-core-features-api-guide)
 - [OpenClaw Docker Deployment Guide [2026]: Setup & Best Practices](https://qubittool.com/en/blog/openclaw-docker-deployment-guide)
 - [What Can OpenClaw Do? Automated Workflow & Use Cases Guide [2026]](https://qubittool.com/en/blog/openclaw-use-cases-workflow-guide)
-- [OpenSpec Tutorial: Master Spec](https://qubittool.com/en/blog/openspec-sdd-tutorial)
+- [Spec-Driven Development Tutorial](https://qubittool.com/en/blog/openspec-sdd-tutorial)
 - [Complete Guide to Password Generators](https://qubittool.com/en/blog/password-generator-complete-guide)
 - [PDF Tools Online Guide](https://qubittool.com/en/blog/pdf-conversion-tools-guide)
 - [Online PDF Tools Complete Guide](https://qubittool.com/en/blog/pdf-tools-online-guide)
