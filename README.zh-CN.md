@@ -206,7 +206,7 @@
 - [Eino 编排引擎详解：Chain、Graph 与 Workflow 实战](https://qubittool.com/zh/blog/eino-orchestration-chain-graph-workflow)
 - [Eino 生产部署与可观测性工程化实战](https://qubittool.com/zh/blog/eino-production-deployment-observability)
 - [Eino RAG Pipeline 实战指南：从文档入库到智能问答](https://qubittool.com/zh/blog/eino-rag-pipeline-production-guide)
-- [用 Eino 实现 Skill 与 MCP 工具调用运行时](https://qubittool.com/zh/blog/eino-skill-mcp-runtime-guide)
+- [Eino 实战：构建支持 MCP 的 Skill 运行时](https://qubittool.com/zh/blog/eino-skill-mcp-runtime-guide)
 - [Eino 流式处理与 Callback 切面系统实战](https://qubittool.com/zh/blog/eino-streaming-and-callback-system)
 - [向量嵌入(Embedding)完全指南：从原理到实践](https://qubittool.com/zh/blog/embedding-vector-complete-guide)
 - [具身智能 2026：从机器人基础模型到工业落地深度解析](https://qubittool.com/zh/blog/embodied-ai-2026-robot-foundation-models)
