@@ -122,6 +122,7 @@ Our growing collection of tools is organized into the following categories. Clic
 - [A2UI: Building Safe Agent](https://qubittool.com/en/blog/a2ui-protocol-deep-dive-agent-native-ui)
 - [A2UI, AG](https://qubittool.com/en/blog/a2ui-vs-ag-ui-vercel-agent-ui-comparison)
 - [RAG Chunking Strategies: How to Evaluate What Works](https://qubittool.com/en/blog/advanced-rag-chunking-strategies)
+- [Agent Client Protocol: ACP Architecture and Safety](https://qubittool.com/en/blog/agent-client-protocol-acp-guide)
 - [Agent Harness Evaluation: Test AI Agents for Production](https://qubittool.com/en/blog/agent-harness-evaluation-guide)
 - [What Is an Agent Loop? AI Agent Runtime Guide](https://qubittool.com/en/blog/agent-loop-complete-guide)
 - [Agent Loop vs Loop Engineering: Key Differences](https://qubittool.com/en/blog/agent-loop-vs-loop-engineering)
@@ -366,6 +367,7 @@ Our growing collection of tools is organized into the following categories. Clic
 Technical terms and concepts explained for developers.
 
 - [A2A Protocol (Agent-to-Agent Protocol)](https://qubittool.com/en/glossary/a2a-protocol)
+- [ACP (Agent Client Protocol)](https://qubittool.com/en/glossary/acp)
 - [Adapter](https://qubittool.com/en/glossary/adapter)
 - [AES (Advanced Encryption Standard)](https://qubittool.com/en/glossary/aes)
 - [Agent Development Kit](https://qubittool.com/en/glossary/agent-development-kit)

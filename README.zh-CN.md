@@ -122,6 +122,7 @@
 - [A2UI：构建安全的 Agent 驱动界面契约](https://qubittool.com/zh/blog/a2ui-protocol-deep-dive-agent-native-ui)
 - [A2UI、AG](https://qubittool.com/zh/blog/a2ui-vs-ag-ui-vercel-agent-ui-comparison)
 - [RAG 分块策略：如何评测 Chunking 是否有效](https://qubittool.com/zh/blog/advanced-rag-chunking-strategies)
+- [ACP 协议深度解析：IDE 与编码智能体如何互操作](https://qubittool.com/zh/blog/agent-client-protocol-acp-guide)
 - [Agent Harness 评测：如何测试生产级 AI Agent](https://qubittool.com/zh/blog/agent-harness-evaluation-guide)
 - [Agent Loop 是什么？AI Agent 闭环运行机制详解](https://qubittool.com/zh/blog/agent-loop-complete-guide)
 - [Agent Loop vs Loop Engineering：区别与联系](https://qubittool.com/zh/blog/agent-loop-vs-loop-engineering)
@@ -366,6 +367,7 @@
 为开发者解释的技术术语和概念。
 
 - [A2A 协议 (Agent-to-Agent 协议)](https://qubittool.com/zh/glossary/a2a-protocol)
+- [ACP (智能体客户端协议（Agent Client Protocol）)](https://qubittool.com/zh/glossary/acp)
 - [适配器（Adapter）](https://qubittool.com/zh/glossary/adapter)
 - [AES (高级加密标准)](https://qubittool.com/zh/glossary/aes)
 - [Agent 开发套件（Agent Development Kit）](https://qubittool.com/zh/glossary/agent-development-kit)
