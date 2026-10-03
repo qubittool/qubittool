@@ -240,6 +240,7 @@ Our growing collection of tools is organized into the following categories. Clic
 - [Image Optimization for the Web: A Measurement](https://qubittool.com/en/blog/image-optimization-techniques-guide)
 - [Image Processing in Practice: Crop, Composite, Watermark, and Encode Safely](https://qubittool.com/en/blog/image-processing-complete-guide)
 - [Advanced Image Workflows: GIF, SVG, Watermarks, Collage, Crop, and Resize](https://qubittool.com/en/blog/image-tools-advanced-guide)
+- [Jev Model Deep Dive: Typed Decisions and Calibration](https://qubittool.com/en/blog/jev-typesafe-system-one-model-deep-dive)
 - [JSON Comparison in Practice: Structural Diff, Arrays, and Privacy](https://qubittool.com/en/blog/json-compare-online-guide)
 - [JSON to CSV Conversion: Schemas, Arrays, Types, and Safe Exports](https://qubittool.com/en/blog/json-csv-conversion-guide)
 - [JSON Diff Algorithms: Paths, Array Matching, and Patch Safety](https://qubittool.com/en/blog/json-diff-tool-principles-applications)

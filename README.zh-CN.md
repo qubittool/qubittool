@@ -240,6 +240,7 @@
 - [网页图片优化指南：以测量为中心的性能实践](https://qubittool.com/zh/blog/image-optimization-techniques-guide)
 - [图片处理实战指南：安全裁剪、合成、水印与编码](https://qubittool.com/zh/blog/image-processing-complete-guide)
 - [高级图片处理工作流：GIF、SVG、水印、拼贴、裁剪与缩放](https://qubittool.com/zh/blog/image-tools-advanced-guide)
+- [Jev 模型深度解析：类型化决策、概率校准与工程实践](https://qubittool.com/zh/blog/jev-typesafe-system-one-model-deep-dive)
 - [JSON 对比实战指南：结构化 Diff、数组语义与隐私](https://qubittool.com/zh/blog/json-compare-online-guide)
 - [JSON 与 CSV 转换指南：Schema、数组、类型与安全导出](https://qubittool.com/zh/blog/json-csv-conversion-guide)
 - [JSON Diff 算法指南：路径、数组匹配与补丁安全](https://qubittool.com/zh/blog/json-diff-tool-principles-applications)
