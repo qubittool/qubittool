@@ -128,7 +128,7 @@
 - [Agent Loop vs Loop Engineering：区别与联系](https://qubittool.com/zh/blog/agent-loop-vs-loop-engineering)
 - [Agent 可观测性：Trace、Eval 与调试](https://qubittool.com/zh/blog/agent-observability-engineering)
 - [Agentic RAG 工程指南：控制循环、证据与评测](https://qubittool.com/zh/blog/agentic-rag-agent-retrieval-action)
-- [Agentic Workflows 工程实践：GitHub Actions + Agent 自动化](https://qubittool.com/zh/blog/agentic-workflows-github-actions-automation)
+- [GitHub Agentic Workflows：安全构建 CI/CD Agent 自动化](https://qubittool.com/zh/blog/agentic-workflows-github-actions-automation)
 - [AGENTS.md 最佳实践：编写、分层、验证与维护](https://qubittool.com/zh/blog/agents-md-best-practices)
 - [如何构建 AI Agent：生产级架构与代码实战](https://qubittool.com/zh/blog/ai-agent-development-complete-guide)
 - [2026 AI Agent 框架怎么选：从排行榜转向决策框架](https://qubittool.com/zh/blog/ai-agent-framework-comparison-2026)

@@ -128,7 +128,7 @@ Our growing collection of tools is organized into the following categories. Clic
 - [Agent Loop vs Loop Engineering: Key Differences](https://qubittool.com/en/blog/agent-loop-vs-loop-engineering)
 - [Agent Observability: Traces, Evals, and Debugging](https://qubittool.com/en/blog/agent-observability-engineering)
 - [Agentic RAG: Control Loops, Evidence, and Evaluation](https://qubittool.com/en/blog/agentic-rag-agent-retrieval-action)
-- [Agentic Workflows in Practice: GitHub Actions, CI/CD Pipelines, and Autonomous Engineering](https://qubittool.com/en/blog/agentic-workflows-github-actions-automation)
+- [GitHub Agentic Workflows: Secure CI/CD Automation Guide](https://qubittool.com/en/blog/agentic-workflows-github-actions-automation)
 - [AGENTS.md Best Practices: Write, Scope, Test, Maintain](https://qubittool.com/en/blog/agents-md-best-practices)
 - [How to Build an AI Agent: Production Architecture Guide](https://qubittool.com/en/blog/ai-agent-development-complete-guide)
 - [AI Agent Frameworks 2026: A Decision Framework](https://qubittool.com/en/blog/ai-agent-framework-comparison-2026)
