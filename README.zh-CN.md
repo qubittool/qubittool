@@ -627,7 +627,7 @@
 - [工具使用 (LLM 与 AI Agent 工具使用)](https://qubittool.com/zh/glossary/tool-use)
 - [训练数据 (Training Data)](https://qubittool.com/zh/glossary/training-data)
 - [Transformer模型](https://qubittool.com/zh/glossary/transformer)
-- [首 Token 延迟（TTFT）](https://qubittool.com/zh/glossary/ttft)
+- [首 Token 延迟（TTFT） (Time to First Token)](https://qubittool.com/zh/glossary/ttft)
 - [TypeScript (TypeScript 编程语言)](https://qubittool.com/zh/glossary/typescript)
 - [Unicode (Unicode 标准)](https://qubittool.com/zh/glossary/unicode)
 - [单位换算 (度量单位换算)](https://qubittool.com/zh/glossary/unit-conversion)
