@@ -611,7 +611,7 @@
 - [SVG (可缩放矢量图形)](https://qubittool.com/zh/glossary/svg)
 - [合成数据（Synthetic Data）](https://qubittool.com/zh/glossary/synthetic-data)
 - [系统提示词（System Prompt）](https://qubittool.com/zh/glossary/system-prompt)
-- [温度参数 (大语言模型温度参数)](https://qubittool.com/zh/glossary/temperature)
+- [温度参数 (大语言模型采样温度)](https://qubittool.com/zh/glossary/temperature)
 - [张量并行（Tensor Parallelism）](https://qubittool.com/zh/glossary/tensor-parallelism)
 - [测试时计算（Test-Time Compute）](https://qubittool.com/zh/glossary/test-time-compute)
 - [文生图 (文本生成图像（Text-to-Image Generation）)](https://qubittool.com/zh/glossary/text-to-image)
