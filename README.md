@@ -293,7 +293,7 @@ Our growing collection of tools is organized into the following categories. Clic
 - [Mixture of Agents: Architecture, Evaluation, and Go Implementation](https://qubittool.com/en/blog/mixture-of-agents-architecture)
 - [Mock Data in Practice【2026】: Fixtures, Generators, and Safe Test Datasets](https://qubittool.com/en/blog/mock-data-generation-guide)
 - [LLM Quantization: Methods, Runtime Fit, and Evaluation](https://qubittool.com/en/blog/model-quantization-complete-guide)
-- [Mixture of Experts Architecture: Routing, Training, and Serving](https://qubittool.com/en/blog/moe-architecture-explained)
+- [Mixture of Experts (MoE): Routing, Training, Serving](https://qubittool.com/en/blog/moe-architecture-explained)
 - [Multi-Agent Orchestration Patterns: Production Guide](https://qubittool.com/en/blog/multi-agent-orchestration-patterns)
 - [Multi-Agent Systems: When and How to Build Them](https://qubittool.com/en/blog/multi-agent-system-complete-guide)
 - [Multimodal Document Pipelines: From Pixels to Evidence](https://qubittool.com/en/blog/multimodal-ai-image-text-pipeline-engineering)
