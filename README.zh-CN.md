@@ -257,7 +257,7 @@
 - [JWT 原理与应用详解：声明、签名、加密与验证](https://qubittool.com/zh/blog/jwt-principles-and-applications)
 - [JWT 签名密钥指南【2026】：安全生成、存储、轮换与校验](https://qubittool.com/zh/blog/jwt-secret-key-generator-guide)
 - [AI 知识图谱：GraphRAG、来源治理与安全查询](https://qubittool.com/zh/blog/knowledge-graph-ai-application-guide)
-- [LangGraph vs AutoGen：如何选择多智能体框架](https://qubittool.com/zh/blog/langgraph-vs-autogen-multi-agent-frameworks)
+- [LangGraph 与 AutoGen：2026 框架选型与迁移](https://qubittool.com/zh/blog/langgraph-vs-autogen-multi-agent-frameworks)
 - [LLM-as-a-Judge：校准、偏差与发布门禁](https://qubittool.com/zh/blog/llm-as-judge-evaluation-beyond-rouge-bleu)
 - [LLM 微调实战：SFT、LoRA、QLoRA 与评测](https://qubittool.com/zh/blog/llm-fine-tuning-complete-guide)
 - [LLM 工具调用：生产级架构与安全实践](https://qubittool.com/zh/blog/llm-function-calling-complete-guide)
