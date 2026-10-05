@@ -306,7 +306,7 @@
 - [NLP 自然语言处理入门：任务、分词、模型选择与评测](https://qubittool.com/zh/blog/nlp-natural-language-processing-guide)
 - [AI 应用构建器选型指南【2026】：可复现的无代码与低代码对比](https://qubittool.com/zh/blog/no-code-ai-app-builder-comparison-guide)
 - [数字转文字：语言规则、金额精度与安全实现](https://qubittool.com/zh/blog/number-to-words-complete-guide)
-- [Ollama 是什么？本地部署、API 与生产边界](https://qubittool.com/zh/blog/ollama-advanced-local-llm-guide)
+- [Ollama 是什么？本地模型、云端 API 与生产边界](https://qubittool.com/zh/blog/ollama-advanced-local-llm-guide)
 - [Unix 时间戳转换：单位、时区与精确实现](https://qubittool.com/zh/blog/online-timestamp-converter-guide)
 - [开源 AI Agent 生态：一套面向生产的框架选型方法](https://qubittool.com/zh/blog/open-source-ai-agent-ecosystem-guide)
 - [开源 AI 模型许可证：工程合规与发布门禁](https://qubittool.com/zh/blog/open-source-ai-license-compliance-guide)
