@@ -373,6 +373,7 @@
 
 为开发者解释的技术术语和概念。
 
+- [4D 全景分割 (4D Panoptic LiDAR Segmentation)](https://qubittool.com/zh/glossary/4d-panoptic-segmentation)
 - [A2A 协议 (Agent-to-Agent 协议)](https://qubittool.com/zh/glossary/a2a-protocol)
 - [累积局部效应（ALE）](https://qubittool.com/zh/glossary/accumulated-local-effects)
 - [ACP (智能体客户端协议（Agent Client Protocol）)](https://qubittool.com/zh/glossary/acp)
@@ -505,6 +506,8 @@
 - [深度学习](https://qubittool.com/zh/glossary/deep-learning)
 - [人口统计均等（Demographic Parity）](https://qubittool.com/zh/glossary/demographic-parity)
 - [稠密检索（Dense Retrieval）](https://qubittool.com/zh/glossary/dense-retrieval)
+- [深度感知视频全景质量（DVPQ） (Depth-Aware Video Panoptic Quality)](https://qubittool.com/zh/glossary/depth-aware-video-panoptic-quality)
+- [深度感知视频全景分割（DVPS） (Depth-Aware Video Panoptic Segmentation)](https://qubittool.com/zh/glossary/depth-aware-video-panoptic-segmentation)
 - [差异对比 (差异对比/差异算法)](https://qubittool.com/zh/glossary/diff)
 - [双重差分法](https://qubittool.com/zh/glossary/difference-in-differences)
 - [差分隐私（Differential Privacy）](https://qubittool.com/zh/glossary/differential-privacy)
@@ -726,6 +729,8 @@
 - [全景分割 (Panoptic Segmentation)](https://qubittool.com/zh/glossary/panoptic-segmentation)
 - [全景跟踪指标（PAT） (Panoptic Tracking Metric)](https://qubittool.com/zh/glossary/panoptic-tracking-metric)
 - [并行回火（Parallel Tempering）](https://qubittool.com/zh/glossary/parallel-tempering)
+- [部件感知全景质量（PartPQ） (Part-Aware Panoptic Quality)](https://qubittool.com/zh/glossary/part-aware-panoptic-quality)
+- [部件感知全景分割 (Part-Aware Panoptic Segmentation)](https://qubittool.com/zh/glossary/part-aware-panoptic-segmentation)
 - [部分依赖图（PDP）](https://qubittool.com/zh/glossary/partial-dependence-plot)
 - [粒子滤波（Particle Filter）](https://qubittool.com/zh/glossary/particle-filter)
 - [粒子马尔可夫链蒙特卡洛（Particle MCMC）](https://qubittool.com/zh/glossary/particle-mcmc)

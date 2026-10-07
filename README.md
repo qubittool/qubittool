@@ -373,6 +373,7 @@ Our growing collection of tools is organized into the following categories. Clic
 
 Technical terms and concepts explained for developers.
 
+- [4D Panoptic Segmentation (4D Panoptic LiDAR Segmentation)](https://qubittool.com/en/glossary/4d-panoptic-segmentation)
 - [A2A Protocol (Agent-to-Agent Protocol)](https://qubittool.com/en/glossary/a2a-protocol)
 - [Accumulated Local Effects (ALE)](https://qubittool.com/en/glossary/accumulated-local-effects)
 - [ACP (Agent Client Protocol)](https://qubittool.com/en/glossary/acp)
@@ -505,6 +506,8 @@ Technical terms and concepts explained for developers.
 - [Deep Learning](https://qubittool.com/en/glossary/deep-learning)
 - [Demographic Parity](https://qubittool.com/en/glossary/demographic-parity)
 - [Dense Retrieval](https://qubittool.com/en/glossary/dense-retrieval)
+- [DVPQ (Depth-Aware Video Panoptic Quality)](https://qubittool.com/en/glossary/depth-aware-video-panoptic-quality)
+- [DVPS (Depth-Aware Video Panoptic Segmentation)](https://qubittool.com/en/glossary/depth-aware-video-panoptic-segmentation)
 - [Diff (Difference / Diff Algorithm)](https://qubittool.com/en/glossary/diff)
 - [Difference-in-Differences](https://qubittool.com/en/glossary/difference-in-differences)
 - [Differential Privacy](https://qubittool.com/en/glossary/differential-privacy)
@@ -726,6 +729,8 @@ Technical terms and concepts explained for developers.
 - [Panoptic Segmentation (Panoptic Segmentation Task)](https://qubittool.com/en/glossary/panoptic-segmentation)
 - [Panoptic Tracking (PAT) (Panoptic Tracking Metric)](https://qubittool.com/en/glossary/panoptic-tracking-metric)
 - [Parallel Tempering](https://qubittool.com/en/glossary/parallel-tempering)
+- [PartPQ (Part-Aware Panoptic Quality)](https://qubittool.com/en/glossary/part-aware-panoptic-quality)
+- [Part-Aware Panoptic Segmentation (Part-Aware Panoptic Segmentation Task)](https://qubittool.com/en/glossary/part-aware-panoptic-segmentation)
 - [Partial Dependence Plot (PDP)](https://qubittool.com/en/glossary/partial-dependence-plot)
 - [Particle Filter](https://qubittool.com/en/glossary/particle-filter)
 - [Particle Markov Chain Monte Carlo](https://qubittool.com/en/glossary/particle-mcmc)
