@@ -18,6 +18,10 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
+include:
+  - README.md
+  - README.zh-CN.md
+
 exclude:
   - CODE_OF_CONDUCT.md
   - CODE_OF_CONDUCT.zh-CN.md
