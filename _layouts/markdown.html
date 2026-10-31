@@ -1,0 +1,6 @@
+---
+layout: default
+---
+<main class="markdown-content">
+  {{ content | replace: 'href="./README.md"', 'href="./README.html"' | replace: 'href="./README.zh-CN.md"', 'href="./README.zh-CN.html"' }}
+</main>

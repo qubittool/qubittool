@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -317,6 +317,66 @@
     .footer-links a { margin: 0 12px; color: var(--text-muted); }
     .footer-links a:hover { color: var(--primary-light); }
 
+    .markdown-content {
+      max-width: 808px;
+      margin: 0 auto;
+      padding: 112px 24px 64px;
+      overflow-wrap: anywhere;
+    }
+    .markdown-content > :first-child { margin-top: 0; }
+    .markdown-content h1,
+    .markdown-content h2,
+    .markdown-content h3,
+    .markdown-content h4,
+    .markdown-content h5,
+    .markdown-content h6 {
+      margin: 32px 0 16px;
+      color: var(--text-heading);
+      line-height: 1.35;
+      scroll-margin-top: 88px;
+    }
+    .markdown-content h1 { font-size: clamp(1.8rem, 4vw, 2.4rem); }
+    .markdown-content h2 { font-size: 1.7rem; }
+    .markdown-content h3 { font-size: 1.3rem; }
+    .markdown-content p,
+    .markdown-content ul,
+    .markdown-content ol,
+    .markdown-content blockquote,
+    .markdown-content pre,
+    .markdown-content table { margin-bottom: 16px; }
+    .markdown-content ul,
+    .markdown-content ol { padding-left: 24px; }
+    .markdown-content li { margin: 6px 0; }
+    .markdown-content li > ul,
+    .markdown-content li > ol { margin: 8px 0; }
+    .markdown-content a { text-decoration: underline; text-underline-offset: 3px; }
+    .markdown-content img { max-width: 100%; height: auto; vertical-align: middle; }
+    .markdown-content hr { margin: 32px 0; border: 0; border-top: 1px solid var(--border); }
+    .markdown-content blockquote {
+      padding: 8px 20px;
+      border-left: 3px solid var(--primary);
+      color: var(--text-muted);
+    }
+    .markdown-content blockquote > :last-child { margin-bottom: 0; }
+    .markdown-content code {
+      padding: 2px 6px;
+      background: var(--bg-card);
+      border-radius: 4px;
+      font-size: 0.9em;
+    }
+    .markdown-content pre {
+      padding: 16px;
+      overflow-x: auto;
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+    }
+    .markdown-content pre code { padding: 0; background: none; }
+    .markdown-content table { display: block; overflow-x: auto; border-collapse: collapse; }
+    .markdown-content th,
+    .markdown-content td { padding: 10px 14px; border: 1px solid var(--border); }
+    .markdown-content th { background: var(--bg-card); }
+
     @media (max-width: 768px) {
       .hero { padding: 120px 16px 60px; }
       .hero-stats { gap: 24px; }
@@ -339,6 +399,7 @@
     </div>
   </header>
 
+  {% unless page.hide_hero %}
   <!-- Hero -->
   <section class="hero">
     <div class="container">
@@ -353,6 +414,7 @@
       </div>
     </div>
   </section>
+  {% endunless %}
 
   {{ content }}
 

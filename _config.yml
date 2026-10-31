@@ -32,3 +32,17 @@ defaults:
       path: ""
     values:
       layout: default
+  - scope:
+      path: "README.md"
+    values:
+      layout: markdown
+      hide_hero: true
+      title: "QubitTool Community"
+      lang: en
+  - scope:
+      path: "README.zh-CN.md"
+    values:
+      layout: markdown
+      hide_hero: true
+      title: "QubitTool 社区"
+      lang: zh-CN
